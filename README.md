@@ -1,2 +1,2 @@
-# diffusion-models-from-scratch
-A sample diffusion models implementation using Pytorch
+# Diffusion models from scratch using Pytorch
+A sample diffusion models implementation using Pytorch.
